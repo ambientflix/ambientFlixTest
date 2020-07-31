@@ -1,0 +1,344 @@
+(tweet)today
+(tweet)main
+(tweet)reason
+(tweet)unemployment
+(tweet)poised
+(tweet)expire
+(tweet)trump
+(tweet)white
+(tweet)house
+(tweet)first
+(tweet)husband
+(tweet)union
+(tweet)wrapped
+(tweet)arms
+(tweet)around
+(tweet)fight
+(tweet)person
+(tweet)fundamental
+(tweet)problem
+(tweet)need
+(tweet)informed
+(tweet)combat
+(tweet)tech
+(tweet)keep
+(tweet)c
+(tweet)works
+(tweet)premise
+(tweet)would
+(tweet)gone
+(tweet)destroy
+(tweet)mode
+(tweet)one
+(tweet)highest
+(tweet)poverty
+(tweet)country
+(tweet)deserve
+(tweet)senator
+(tweet)put
+(tweet)working
+(tweet)baby
+(tweet)possible
+(tweet)could
+(tweet)join
+(tweet)event
+(tweet)witness
+(tweet)land
+(tweet)support
+(tweet)mission
+(tweet)excited
+(tweet)share
+(tweet)senator
+(tweet)hosting
+(tweet)r
+(tweet)great
+(tweet)catching
+(tweet)ken
+(tweet)talking
+(tweet)passion
+(tweet)service
+(tweet)hope
+(tweet)give
+(tweet)latest
+(tweet)p
+(tweet)excited
+(tweet)join
+(tweet)us
+(tweet)watch
+(tweet)launch
+(tweet)tomorrow
+(tweet)morning
+(tweet)honor
+(tweet)live
+(tweet)tweet
+(tweet)life
+(tweet)time
+(tweet)literally
+(tweet)cute
+(tweet)little
+(tweet)cheese
+(tweet)wind
+(tweet)speed
+(tweet)wave
+(tweet)height
+(tweet)rain
+(tweet)lightning
+(tweet)visibility
+(tweet)stich
+(tweet)commercialcrew
+(tweet)program
+(tweet)manager
+(tweet)discuss
+(tweet)astrodoug
+(tweet)opportunity
+(tweet)live
+(tweet)dragon
+(tweet)first
+(tweet)part
+(tweet)flight
+(tweet)take
+(tweet)da
+(tweet)beyond
+(tweet)frightened
+(tweet)trump
+(tweet)shown
+(tweet)beat
+(tweet)pandemic
+(tweet)turn
+(tweet)economy
+(tweet)around
+(tweet)team
+(tweet)done
+(tweet)tremendous
+(tweet)amount
+(tweet)work
+(tweet)team
+(tweet)ready
+(tweet)go
+(tweet)spacestation
+(tweet)program
+(tweet)manager
+(tweet)jo
+(tweet)dragon
+(tweet)well
+(tweet)healthy
+(tweet)stich
+(tweet)program
+(tweet)manager
+(tweet)tell
+(tweet)got
+(tweet)wearing
+(tweet)walk
+(tweet)away
+(tweet)team
+(tweet)team
+(tweet)remain
+(tweet)go
+(tweet)return
+(tweet)cannot
+(tweet)wait
+(tweet)astrodoug
+(tweet)astrodoug
+(tweet)spacestation
+(tweet)dragon
+(tweet)complicated
+(tweet)voting
+(tweet)uncertain
+(tweet)return
+(tweet)campus
+(tweet)left
+(tweet)student
+(tweet)voting
+(tweet)hanging
+(tweet)balance
+(tweet)must
+(tweet)act
+(tweet)protect
+(tweet)voting
+(tweet)take
+(tweet)love
+(tweet)wish
+(tweet)knew
+(tweet)artist
+(tweet)could
+(tweet)give
+(tweet)credit
+(tweet)deserve
+(tweet)grateful
+(tweet)support
+(tweet)received
+(tweet)family
+(tweet)campaign
+(tweet)benefit
+(tweet)last
+(tweet)time
+(tweet)sex
+(name)Chuck Patton
+(name)Armando Montero
+(name)Landon Walker
+(name)Mark Ruffalo
+(name)Tom Hanks
+(name)John Mulaney
+(name)Seth Rogen
+(name)Trevor Noah
+(name)Ian McKellen
+(name)NASA
+(name)Bill Nye
+(name)Patrick Stewart
+(name)George Takei
+(name)Neil deGrasse Tyson
+(name)Barack Obama
+(name)Bernie Sanders
+(name)Margot Robbie
+(name)The Daily Show
+(name)Mark Hamill
+(name)Alexandria Ocasio-Cortez
+(name)Lin-Manuel Miranda
+(name)Andrew Yang
+(name)Elon Musk
+(name)Pete Buttigieg
+(name)Ken Jeong
+(name)Joe Biden
+(name)Randall Park
+(name)Michael B. Jordan
+(name)Hugh Jackman
+(name)Charlize Theron
+(name)Alison Brie
+(name)Steve Carell
+(name)donald
+(name)Gal Gadot
+(name)Ryan Reynolds
+(name)Chris Evans
+(name)DV Key Club
+(news)waymo
+(news)offering
+(news)limited
+(news)rider
+(news)trips
+(news)arizona
+(news)chief
+(news)executive
+(news)john
+(news)krafcik
+(news)told
+(news)reporters
+(news)weekend
+(news)moment
+(news)fully
+(news)autonomous
+(news)ridesharing
+(news)service
+(news)available
+(news)hundred
+(news)early
+(news)users
+(news)beginning
+(news)mon
+(news)
+(news)waymo
+(news)expanding
+(news)foray
+(news)self
+(news)driving
+(news)delivery
+(news)vehicles
+(news)alphabet
+(news)brand
+(news)teaming
+(news)ups
+(news)pilot
+(news)autonomous
+(news)chrysler
+(news)pacifica
+(news)vans
+(news)carry
+(news)packages
+(news)metro
+(news)area
+(news)shuttling
+(news)cargo
+(news)ups
+(news)stores
+(news)co
+(news)
+(news)movie
+(news)great
+(news)books
+(news)
+(news)waymo
+(news)making
+(news)ride
+(news)hailing
+(news)app
+(news)widely
+(news)available
+(news)putting
+(news)google
+(news)play
+(news)store
+(news)self
+(news)driving
+(news)car
+(news)company
+(news)prepares
+(news)open
+(news)service
+(news)residents
+(news)company
+(news)spun
+(news)become
+(news)business
+(news)alphabet
+(news)launc
+(news)
+(news)autonomous
+(news)driving
+(news)company
+(news)waymo
+(news)launched
+(news)tie
+(news)lyft
+(news)using
+(news)handful
+(news)vehicles
+(news)pick
+(news)riders
+(news)testing
+(news)zone
+(news)per
+(news)cnbc
+(news)eligible
+(news)lyft
+(news)users
+(news)requesting
+(news)ride
+(news)trip
+(news)starts
+(news)ends
+(news)ar
+(news)
+(location)Phoenix
+(location)Arizona
+(weather)hot
+(weather)Sunny
+(genre)Action
+(name)The Charlie Daniels Band
+(song)The 
+(song)Devil 
+(song)Went 
+(song)Down
+(song)Georgia
+(genre)Western
+(name)Luke Bryan
+(song)Country 
+(song)Girl 
+(song)Shake 
+(song)It 
+(song)For 
+(song)Me
+(genre)Western
+(name)Sam Hunt
+(song)Make 
+(song)You 
+(song)Miss 
+(song)Me
